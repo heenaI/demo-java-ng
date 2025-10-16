@@ -1,0 +1,5 @@
+# WildFly-based deployment (copy WAR externally)
+# See: https://hub.docker.com/r/jboss/wildfly
+FROM jboss/wildfly:latest
+# You can COPY your WAR at build-time or mount at runtime
+# COPY target/*.war /opt/jboss/wildfly/standalone/deployments/
