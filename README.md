@@ -1,7 +1,3 @@
-# Schnuppertag Java Senior – Full Stack Demo
-
-This repo is a **ready-to-clone** scaffold for a senior-level Java/Spring Boot + Java EE + Angular CRUD system, with CI/CD and security best practices.
-
 ## Projects
 - `backend-springboot/` — Spring Boot CRUD API (JPA, Validation, Security, Swagger)
 - `backend-javaee/` — Jakarta EE (JAX-RS, CDI, JPA, JAAS) deployable to WildFly/JBoss
